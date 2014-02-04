@@ -1,0 +1,2 @@
+1. The purpose of the DNS Server is to take a URL, query its vast database and return the corresponding IP address. In other terms, it maps URL to their respective IP addresses for convenience of world wide web users
+2. Conflicts usually resolve themselves out in the DHCP environments as the system issues repeated requests for valid addresses.
